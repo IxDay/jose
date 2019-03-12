@@ -1,7 +1,7 @@
 JOSE
 ============
-[![Build Status](https://travis-ci.org/SermoDigital/jose.svg?branch=master)](https://travis-ci.org/SermoDigital/jose)
-[![GoDoc](https://godoc.org/github.com/SermoDigital/jose?status.svg)](https://godoc.org/github.com/SermoDigital/jose)
+[![Build Status](https://travis-ci.org/IxDay/jose.svg?branch=master)](https://travis-ci.org/IxDay/jose)
+[![GoDoc](https://godoc.org/github.com/IxDay/jose?status.svg)](https://godoc.org/github.com/IxDay/jose)
 
 JOSE is a comprehensive set of JWT, JWS, and JWE libraries.
 
@@ -33,8 +33,8 @@ A gopkg.in mirror can be found at https://gopkg.in/jose.v1, thanks to
 
 [MIT] [license].
 
-[docs]:    https://godoc.org/github.com/SermoDigital/jose
-[license]: https://github.com/SermoDigital/jose/blob/master/LICENSE.md
+[docs]:    https://godoc.org/github.com/IxDay/jose
+[license]: https://github.com/IxDay/jose/blob/master/LICENSE.md
 [jws]: https://tools.ietf.org/html/rfc7515
 [jwe]: https://tools.ietf.org/html/rfc7516
 [jwt]: https://tools.ietf.org/html/rfc7519
